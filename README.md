@@ -1,5 +1,5 @@
 ## Placeholder to release the source code of Bella
-after acceptance
+
 
 <!--
 **bella-lora/bella-lora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
